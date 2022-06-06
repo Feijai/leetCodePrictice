@@ -1,3 +1,4 @@
+// 找到字串中最長不重複的字
 const lengthOfLongestSubstring = function (s) {
   var maxLength = 0;
   let left = 0;

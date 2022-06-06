@@ -6,6 +6,7 @@ function maxSum(arr, size) {
   }
 
   let maxValue = 0;
+  // 先做好第一個
   for (let i = 0; i < size; i++) {
     maxValue += arr[i];
   }
