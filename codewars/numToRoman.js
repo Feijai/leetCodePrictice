@@ -56,7 +56,7 @@ function solution(num) {
 //   while(number>0){
 //       for(a in roman){ 
 //           if(roman[a]<=number){ ans += a; number-=roman[a]; break;}
-              
+              parseInt
 //       }
 //   }
 //   return ans;
